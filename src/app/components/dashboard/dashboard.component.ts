@@ -12,7 +12,7 @@ export class DashboardComponent implements OnInit {
   ngOnInit() {
   }
 
-  setSideMenu($event){
+  setSideMenu($event) {
     this.showSideMenu = $event;
   }
 
